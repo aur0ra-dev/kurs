@@ -68,7 +68,7 @@ while choice:
 
 
 
-tab = ["chuj", "pizdunia", "pizdeczka"]
+tab = ["c", "pi", "p"]
 def siemano(tab):
     for i in range(len(tab)): 
         print("{} - {}".format(i+1, tab[i]))
